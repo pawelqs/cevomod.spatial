@@ -4,7 +4,7 @@
 \name{cevomod.spatial-package}
 \alias{cevomod.spatial}
 \alias{cevomod.spatial-package}
-\title{cevomod.spatial: What the Package Does (One Line, Title Case)}
+\title{cevomod.spatial: cevomod package extension for spatial data}
 \description{
 What the package does (one paragraph).
 }
