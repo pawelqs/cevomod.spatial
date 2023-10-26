@@ -12,6 +12,7 @@ Imports:
     cevomod,
     dplyr,
     forcats,
+    ggalt,
     ggforce,
     ggplot2,
     purrr,
